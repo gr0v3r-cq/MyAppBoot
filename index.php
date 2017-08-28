@@ -6,7 +6,7 @@
 </head>
 
 <body>
-Content of the document......
+vista de boot para crear la informacion
 </body>
 
 </html>
